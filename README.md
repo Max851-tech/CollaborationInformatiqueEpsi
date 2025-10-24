@@ -21,7 +21,7 @@ Ce projet est utilisé dans le cadre d'un atelier de collaboration pour mettre e
 
 ## Organisation
 
-* _Kanban board_ : [Lien vers le board GitHub](https://github.com/Belvinabmc/-liveroo-/projects/1)
+* _Kanban board_ : [Lien vers le board GitHub](https://github.com/users/Belvinabmc/projects/2/views/2)
 * _Règles d'équipe_ : voir fichier [TEAMS_RULES.md](./TEAMS_RULES.md)
 * _User stories_ : disponibles dans les Issues du projet (colonne To do)
 
@@ -107,8 +107,8 @@ npm test
 
 ## Liens utiles
 
-- [Board Kanban](https://github.com/Belvinabmc/-liveroo-/projects/1)
-- [Issues](https://github.com/Belvinabmc/-liveroo-/issues)
+- [Board Kanban](https://github.com/users/Belvinabmc/projects/2/views/2)
+- [Issues](https://github.com/Max851-tech/CollaborationInformatiqueEpsi/issues)
 - [Règles d'équipe](./TEAMS_RULES.md)
 
 ---
